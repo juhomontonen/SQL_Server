@@ -1,0 +1,10 @@
+C:\dev\SQL_Server\PersonDB\PersonDB\bin\Debug\netcoreapp1.1\PersonDB.deps.json
+C:\dev\SQL_Server\PersonDB\PersonDB\bin\Debug\netcoreapp1.1\PersonDB.runtimeconfig.json
+C:\dev\SQL_Server\PersonDB\PersonDB\bin\Debug\netcoreapp1.1\PersonDB.runtimeconfig.dev.json
+C:\dev\SQL_Server\PersonDB\PersonDB\bin\Debug\netcoreapp1.1\PersonDB.dll
+C:\dev\SQL_Server\PersonDB\PersonDB\bin\Debug\netcoreapp1.1\PersonDB.pdb
+C:\dev\SQL_Server\PersonDB\PersonDB\obj\Debug\netcoreapp1.1\PersonDB.csprojResolveAssemblyReference.cache
+C:\dev\SQL_Server\PersonDB\PersonDB\obj\Debug\netcoreapp1.1\PersonDB.csproj.CoreCompileInputs.cache
+C:\dev\SQL_Server\PersonDB\PersonDB\obj\Debug\netcoreapp1.1\PersonDB.AssemblyInfo.cs
+C:\dev\SQL_Server\PersonDB\PersonDB\obj\Debug\netcoreapp1.1\PersonDB.dll
+C:\dev\SQL_Server\PersonDB\PersonDB\obj\Debug\netcoreapp1.1\PersonDB.pdb

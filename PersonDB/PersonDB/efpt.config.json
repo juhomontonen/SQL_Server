@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Tuntitehtava2Context","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Model","ProjectRootNamespace":"PersonDB","SelectedToBeGenerated":0,"Tables":["dbo.Table_1_Person","dbo.Table_2_Phone"],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":false}
